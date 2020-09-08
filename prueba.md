@@ -31,3 +31,6 @@ A continuación crearemos una nueva rama, modificaremos un fichero del proyecto 
 resuelves conflicto y commit y push
 
 eliminar rama:  git branch -d [nombre-rama]
+
+
+he añadido esta linea nueva
