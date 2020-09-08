@@ -1,5 +1,4 @@
-actualizar git:
-
+actualizar git: que complicado
 
 git status
 
